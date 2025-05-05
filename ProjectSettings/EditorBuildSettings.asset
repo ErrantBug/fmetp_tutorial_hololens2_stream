@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scene/TestScene_UDP_Client_RenderCam.unity
     guid: 07b5fa2a75d039441857446a6197394e
-  - enabled: 0
+  - enabled: 1
     path: Assets/_Scene/TestScene_UDP_Client_MainCam.unity
     guid: ddbe4a485b32f0c4e93a25e6f846c5a7
   m_configObjects:

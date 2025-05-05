@@ -49,7 +49,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 720
   defaultScreenHeightWeb: 405
   m_StereoRenderingPath: 2
-  m_ActiveColorSpace: 0
+  m_ActiveColorSpace: 1
   m_MTRendering: 1
   mipStripping: 0
   numberOfMipsStripped: 0
@@ -751,11 +751,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: fmetpstreamHL2
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: fmetp
   metroCertificateIssuer: fmetp
-  metroCertificateNotAfter: 8054cdfbc23cd901
+  metroCertificateNotAfter: 006e0f62b9d8dc01
   metroApplicationDescription: fmetpstreamHL2
   wsaImages: {}
   metroTileShortName: HL_Mirroring
@@ -782,7 +782,8 @@ PlayerSettings:
       InternetClient: True
       WebCam: True
       Microphone: True
-  metroTargetDeviceFamilies: {}
+  metroTargetDeviceFamilies:
+    Holographic: True
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
